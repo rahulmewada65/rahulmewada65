@@ -1,74 +1,119 @@
-<h1 align="center">Hi 👋, I'm Rahul Mewada</h1>
-<h3 align="center">Senior Software Engineer | React & React Native Developer</h3>
+<!-- Header / Hero -->
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Mewada;React+Native+%26+React+Developer;Building+Mobile+%26+Web+Experiences" alt="Typing SVG" />
+  
+  <br/>
+
+  <p>
+    📍 Indore, Madhya Pradesh &nbsp;•&nbsp;
+    💻 React Native & React Developer
+  </p>
+
+  <p>
+    I build cross-platform mobile and web apps using React & React Native,  
+    with a focus on performance, clean architecture and great UX.
+  </p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔹 3+ years of experience in **React Native & React**  
+- 🔹 Strong with **JavaScript (ES6+), TypeScript, Redux, Firebase, MongoDB**  
+- 🔹 Love working on **cross-platform apps**, reusable components, and API integrations  
+- 🔹 Open to collaborating on interesting **mobile & web projects**
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<!-- Icons row -->
+<img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,firebase,mongodb,git,github,docker,aws,html,css" />
+
+</div>
+
+---
+
+## 💼 Experience
+
+### Software Engineer — Engineer Philosophy Web Services Pvt. Ltd.
+📍 Indore, Madhya Pradesh • 📅 Aug 2022 – Present  
+
+- Developing **mobile and web applications** with React & React Native  
+- Implementing **Redux** and **Context API** for predictable state management  
+- Integrating **Firebase Authentication** and **Realtime Database**  
+- Working with **REST APIs** and async data flows  
+- Focusing on **UI performance**, optimization, and clean component architecture  
+
+---
+
+## 🏆 Highlight
+
+### 🚀 Xpower Profiling
+
+- Led **iOS development** for the Xpower Profiling project  
+- Ensured full **App Store guideline compliance** and successful release  
+- Worked on **architecture, performance and UX improvements**
+
+### 📱 Xpower Profiling – M (iOS)
+
+- Implemented **MongoDB Realm** for seamless data sync  
+- Built **interactive UI** and data visualizations  
+- Worked with **mobile-first UX** and real-time features  
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<!-- Replace YOUR_GITHUB_USERNAME with your GitHub username -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rahulmewada65&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://streak-stats.vercel.app/?user=rahulmewada65&theme=tokyonight" height="160" />
+</p>
+
+
+</div>
+
+---
+
+## 🎓 Education
+
+- 🎓 **B.E. in Computer Science** — Truba College of Science & Tech (RGPV, Bhopal)  
+  CGPA: **7.25**
+- 🏫 **Higher Secondary (Class XII)** — MP State Board, Madhya Pradesh  
+
+---
+
+## 🌐 Languages
+
+- 🗣 **English** — Advanced  
+- 🗣 **Hindi** — Proficient  
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+  
+  <a href="mailto:rahulmewada65@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rahulmewada65%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rahul-mewada-684b9232a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mewada-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+</div>
+
+---
 
 <p align="center">
-  🚀 Passionate about building scalable mobile & web applications  
+  💡 <i>Always learning, always building.</i>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently working at **EPAM Systems India Pvt Ltd**
-- 💡 5+ years of experience in **React, React Native & JavaScript**
-- 📱 Specialized in **Mobile App Development**
-- 🔥 Experience with **Firebase, Redux, AG Grid, Chrome Extensions**
-- 🌱 Always learning and exploring new technologies
-- 📍 Based in **Indore, India**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-
-### 🔥 Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### ⚙️ Tools
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux)
-![AG Grid](https://img.shields.io/badge/AG_Grid-2E7D32?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
-
----
-
-## 📂 Featured Projects
-
-- 📱 **React Native Mobile Apps**
-- 🔐 **Firebase Authentication & Realtime Database**
-- 🌐 **Chrome Extensions**
-- 📊 **AG Grid Dashboards**
-
-➡️ _Check my repositories to explore more_
-
----
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-⭐ _If you like my work, consider starring my repositories!_
