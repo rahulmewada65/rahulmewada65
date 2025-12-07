@@ -61,19 +61,9 @@
 
 ## 📊 GitHub Snapshot
 
-<p align="center">
+![GitHub Stats](https://github-readme-stats-git-main-excaliburkg.vercel.app/api?username=rahulmewada65&show_icons=true&theme=tokyonight)
 
-<!-- Dark mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=rahulmewada65&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9#gh-dark-mode-only" height="160"/>
-
-<img src="https://streak-stats.vercel.app/?user=rahulmewada65&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E#gh-dark-mode-only" height="160"/>
-
-<!-- Light mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=rahulmewada65&show_icons=true&hide_border=true&theme=default#gh-light-mode-only" height="160"/>
-
-<img src="https://streak-stats.vercel.app/?user=rahulmewada65&hide_border=true&theme=default#gh-light-mode-only" height="160"/>
-
-</p>
+![GitHub Streak](https://streak-stats.vercel.app/?user=rahulmewada65&theme=tokyonight)
 
 ---
 
