@@ -59,12 +59,23 @@
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Summary
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmewada65&show_icons=true&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulmewada65&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.vercel.app/?user=rahulmewada65&theme=tokyonight&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulmewada65&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulmewada65&theme=github_dark)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulmewada65&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulmewada65&theme=github_dark&utcOffset=5.5)
+
+---
+
+## ⭐ GitHub Highlights
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/rahulmewada65?style=for-the-badge&logo=github" />
+</p>
 
 ---
 
@@ -109,4 +120,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
