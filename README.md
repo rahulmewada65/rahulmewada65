@@ -1,16 +1,26 @@
 <!-- ===================== -->
-<!-- Header / Hero Section -->
+<!-- Hero Section -->
 <!-- ===================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Mewada;React+Native+%26+React+Developer;Building+Mobile+%26+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Rahul+Mewada;Senior+React+Native+%26+React+Engineer;Building+Scalable+Mobile+%26+Web+Products" />
   <br/><br/>
+
+  <p><strong>📍 Indore, India</strong> &nbsp;•&nbsp; <strong>💻 React Native | React | Firebase</strong></p>
+
   <p>
-    📍 Indore, Madhya Pradesh &nbsp;•&nbsp; 💻 React Native & React Developer
+    I design and build <strong>high-performance mobile & web applications</strong> with React and React Native.<br/>
+    Focused on <strong>clean architecture, scalability, and world-class user experience</strong>.
   </p>
+
   <p>
-    I build cross-platform mobile and web applications using React & React Native,  
-    focusing on performance, clean architecture, and great user experience.
+    <a href="mailto:rahulmewada65@gmail.com">
+      <img src="https://img.shields.io/badge/Hire%20Me-React%20Developer-success?style=for-the-badge" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/rahul-mewada-684b9232a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    </a>
   </p>
 </div>
 
@@ -18,14 +28,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🔹 3+ years of experience in **React Native & React**
-- 🔹 Strong with **JavaScript (ES6+), TypeScript, Redux, Firebase, MongoDB**
-- 🔹 Passionate about **cross-platform development & reusable components**
-- 🔹 Enjoy working on **scalable, high-performance applications**
+✔ **3+ years** of professional experience in **React Native & React**  
+✔ Expert in **building scalable, production-ready applications**  
+✔ Strong knowledge of **state management, performance optimization & clean UI**  
+✔ Passionate about **cross-platform mobile development**
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ Core Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,firebase,mongodb,git,github,docker,aws,html,css" />
@@ -33,45 +43,44 @@
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
-### Software Engineer — Engineer Philosophy Web Services Pvt. Ltd.
-📍 Indore, Madhya Pradesh • 📅 Aug 2022 – Present
+### **Software Engineer — Engineer Philosophy Web Services Pvt. Ltd.**
+📍 Indore, India • 📅 Aug 2022 – Present
 
-- Developing **mobile and web applications** with React & React Native
-- Implementing **Redux & Context API** for state management
-- Integrating **Firebase Authentication & Realtime Database**
-- Working with **REST APIs** and async data flows
-- Improving **UI performance** and application scalability
-
----
-
-## 🏆 Highlights
-
-### 🚀 Xpower Profiling
-- Led **iOS development** and App Store deployment
-- Ensured full **App Store guideline compliance**
-- Focused on **architecture, UX & performance**
-
-### 📱 Xpower Profiling – M (iOS)
-- Implemented **MongoDB Realm** synchronization
-- Built **interactive UI and data-driven features**
+- 🚀 Building **scalable mobile & web applications** using React & React Native
+- 🔄 Implementing **Redux & Context API** for complex state flows
+- 🔐 Integrating **Firebase Auth, Realtime DB & APIs**
+- ⚡ Improving **performance, load times & UX**
+- 🧩 Writing **clean, reusable, and maintainable code**
 
 ---
 
-## 📊 GitHub Summary
+## 🏆 Key Projects & Achievements
+
+### 🚀 **Xpower Profiling**
+- Led **iOS app development & App Store deployment**
+- Ensured complete **Apple App Store compliance**
+- Designed strong **architecture and smooth user experience**
+
+### 📱 **Xpower Profiling – M (iOS)**
+- Implemented **MongoDB Realm synchronization**
+- Created **data-driven UI & offline-friendly features**
+
+---
+
+## 📊 GitHub Performance
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rahulmewada65&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulmewada65&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rahulmewada65&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulmewada65&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rahulmewada65&theme=github_dark&utcOffset=5.5)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rahulmewada65&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rahulmewada65&theme=github_dark" />
+</p>
 
 ---
 
-## ⭐ GitHub Highlights
+## ⭐ Open-Source Impact
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/rahulmewada65?style=for-the-badge&logo=github" />
@@ -79,7 +88,7 @@
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Graph
 
 <p align="center">
   <img src="https://github.com/rahulmewada65/rahulmewada65/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
@@ -90,33 +99,33 @@
 
 ## 🎓 Education
 
-- 🎓 **B.E. in Computer Science** — Truba College of Science & Technology (RGPV, Bhopal)  
-  CGPA: **7.25**
-- 🏫 **Higher Secondary (Class XII)** — MP State Board, Madhya Pradesh
+🎓 **B.E. in Computer Science** — Truba College of Science & Technology  
+📍 RGPV, Bhopal • **CGPA: 7.25**
 
 ---
 
 ## 🌐 Languages
 
-- 🗣 English — Advanced  
-- 🗣 Hindi — Proficient
+- 🇬🇧 English — Advanced
+- 🇮🇳 Hindi — Native
 
 ---
 
-## 📬 Connect With Me
+## 📩 Let’s Connect
 
 <p align="center">
   <a href="mailto:rahulmewada65@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rahulmewada65%40gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/rahul-mewada-684b9232a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Rahul%20Mewada-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Message-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
+
