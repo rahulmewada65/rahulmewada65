@@ -35,7 +35,7 @@
 
 ## 💼 Experience
 
-### Software Engineer — Philosophy Web Services Pvt. Ltd.
+### Software Engineer — Engineer Philosophy Web Services Pvt. Ltd.
 📍 Indore, Madhya Pradesh • 📅 Aug 2022 – Present
 
 - Developing **mobile and web applications** with React & React Native
@@ -61,9 +61,10 @@
 
 ## 📊 GitHub Snapshot
 
-![GitHub Stats](https://github-readme-stats-git-main-excaliburkg.vercel.app/api?username=rahulmewada65&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulmewada65&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.vercel.app/?user=rahulmewada65&theme=tokyonight)
+![GitHub Streak](https://streak-stats.vercel.app/?user=rahulmewada65&theme=tokyonight&hide_border=true)
+
 
 ---
 
