@@ -2,7 +2,7 @@
 <!-- Top Banner -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A1611&height=160&section=header&text=Rahul%20Mewada&fontColor=D4A853&fontSize=48&fontAlignY=45&animation=fadeIn&desc=Full-Stack%20%26%20React%20Native%20Engineer&descAlignY=65&descColor=F5F0E8&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,100:1A1611&height=180&section=header&text=Rahul%20Mewada&fontSize=50&fontColor=D4A853&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <div align="center">
